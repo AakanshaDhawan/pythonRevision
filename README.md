@@ -1,1 +1,2 @@
-# A repository to revise python concepts from beginner to advance usiing projects.
+# A repository to revise Python concepts from beginner to advanced using projects.
+  -- Password Generator
